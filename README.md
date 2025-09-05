@@ -87,7 +87,4 @@ python 04_compare_plots.py
 
 ---
 
-## 👤 Author
-- Your Name
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: your-email@example.com
+
